@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "movie_name": "I Inside, The",
+      "movie_genres": "Fantasy|Mystery|Sci-Fi",
+      "movie_color": "Indigo",
+      "movie_pic": "http://dummyimage.com/220x100.png/ff4444/ffffff"
+    },
+    {
+      "id": 2,
+      "movie_name": "Fairy, The (La fée) ",
+      "movie_genres": "Comedy|Drama",
+      "movie_color": "Crimson",
+      "movie_pic": "http://dummyimage.com/111x100.png/ff4444/ffffff"
+    },
+    {
+      "id": 3,
+      "movie_name": "Pill, The",
+      "movie_genres": "Comedy|Drama|Romance",
+      "movie_color": "Khaki",
+      "movie_pic": "http://dummyimage.com/130x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 4,
+      "movie_name": "Scanners III: The Takeover (Scanner Force)",
+      "movie_genres": "Action|Horror|Sci-Fi",
+      "movie_color": "Purple",
+      "movie_pic": "http://dummyimage.com/134x100.png/dddddd/000000"
+    },
+    {
+      "id": 5,
+      "movie_name": "Romeo and Juliet",
+      "movie_genres": "Drama|Romance",
+      "movie_color": "Puce",
+      "movie_pic": "http://dummyimage.com/216x100.png/5fa2dd/ffffff"
+    }
+  ]
+}
