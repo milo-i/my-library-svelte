@@ -1,12 +1,13 @@
 <script>
   import Bibliotek from './Bibliotek.svelte';
+  import Form from './Form.svelte';
 
   let movies = 'Mitt filmbibliotek';
 </script>
 
 <main>
   <h1>{movies}!</h1>
-
+  <Form />
   <Bibliotek />
 </main>
 

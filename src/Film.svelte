@@ -5,6 +5,7 @@
 <div>
   Name: {movie.movie_name}<br />
   Color: {movie.movie_color}<br />
+  Color: {movie.movie_genres}<br />
   <img src={movie.movie_pic} alt="represents the movie" />
 </div>
 
@@ -15,5 +16,6 @@
     max-width: 400px;
     border: 1px solid black;
     align-items: center;
+    margin-bottom: 30px;
   }
 </style>

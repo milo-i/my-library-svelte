@@ -34,6 +34,12 @@
       "movie_genres": "Drama|Romance",
       "movie_color": "Puce",
       "movie_pic": "http://dummyimage.com/216x100.png/5fa2dd/ffffff"
+    },
+    {
+      "movieTitle": "Goodfellas",
+      "movieGenre": "Action",
+      "movieColor": "Gul",
+      "id": 6
     }
   ]
 }
